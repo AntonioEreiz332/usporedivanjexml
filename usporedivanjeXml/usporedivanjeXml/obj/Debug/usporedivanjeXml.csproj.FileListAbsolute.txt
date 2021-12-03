@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\usporedivanjeXml\usporedivanjeXml\bin\Debug\usporedivanjeXml.exe.config
+C:\Users\toni-PC\source\repos\usporedivanjeXml\usporedivanjeXml\bin\Debug\usporedivanjeXml.exe
+C:\Users\toni-PC\source\repos\usporedivanjeXml\usporedivanjeXml\bin\Debug\usporedivanjeXml.pdb
+C:\Users\toni-PC\source\repos\usporedivanjeXml\usporedivanjeXml\obj\Debug\usporedivanjeXml.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\usporedivanjeXml\usporedivanjeXml\obj\Debug\usporedivanjeXml.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\usporedivanjeXml\usporedivanjeXml\obj\Debug\usporedivanjeXml.exe
+C:\Users\toni-PC\source\repos\usporedivanjeXml\usporedivanjeXml\obj\Debug\usporedivanjeXml.pdb
